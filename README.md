@@ -1,1 +1,1 @@
-# MERN-SOCIAL-MEDIA-
+# MERN
